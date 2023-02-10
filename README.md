@@ -43,3 +43,4 @@ II.	Абстракция информации
 ### Метод обучения модели
 
 
+![image](https://user-images.githubusercontent.com/58008126/218096711-79b5e675-3d27-4137-9c5c-4235d4f001f4.png)
